@@ -39,4 +39,4 @@ jobs:
                 script: |
                     cd /home/ubuntu/atividade
                     npm install
-                    pm2 restart app
+                    pm2 restart server
